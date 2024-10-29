@@ -37,4 +37,3 @@ next-env.d.ts
 
 # Amplify
 amplify_outputs.json
-resource.ts
