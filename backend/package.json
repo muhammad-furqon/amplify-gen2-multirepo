@@ -1,5 +1,5 @@
 {
-  "name": "amplify-gen2-backend",
+  "name": "backend",
   "version": "1.0.0",
   "description": "Aws Events CodeFirstTypeSafety by ErikCH turns into backend repo for Amplify Gen 2",
   "main": "index.js",
