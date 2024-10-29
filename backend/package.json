@@ -21,5 +21,8 @@
   },
   "dependencies": {
     "aws-amplify": "^6.6.6"
+  },
+  "optionalDependencies": {
+    "@parcel/watcher-linux-x64-glibc": "^2.4.2-alpha.0"
   }
 }
